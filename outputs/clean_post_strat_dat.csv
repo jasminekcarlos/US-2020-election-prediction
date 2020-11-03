@@ -1,0 +1,151 @@
+age_grouped,race_ethnicity,education,count,proportion
+30-39,White,High School or Less,13714,0.03637308805236621
+30-39,White,College Degree or In Progress,25446,0.06748939759227875
+30-39,White,Trade Certificate,2470,0.006551081193622907
+30-39,White,Associate Degree or In Progress,5597,0.014844696939557657
+30-39,White,NA,0,0
+30-39,White,Masters/Doctorate Degree or In Progress,2354,0.006243419080885961
+30-39,"Black, or African American",High School or Less,2592,0.006874656863915213
+30-39,"Black, or African American",College Degree or In Progress,3166,0.008397053870044585
+30-39,"Black, or African American",Trade Certificate,509,0.0013500001326129797
+30-39,"Black, or African American",Associate Degree or In Progress,734,0.001946758540938953
+30-39,"Black, or African American",NA,0,0
+30-39,"Black, or African American",Masters/Doctorate Degree or In Progress,154,4.0844797725422176e-4
+30-39,NA,High School or Less,0,0
+30-39,NA,College Degree or In Progress,0,0
+30-39,NA,Trade Certificate,0,0
+30-39,NA,Associate Degree or In Progress,0,0
+30-39,NA,NA,0,0
+30-39,NA,Masters/Doctorate Degree or In Progress,0,0
+30-39,Asian,High School or Less,551,0.0014613950355004946
+30-39,Asian,College Degree or In Progress,2173,0.005763360094632622
+30-39,Asian,Trade Certificate,54,1.432220179982336e-4
+30-39,Asian,Associate Degree or In Progress,306,8.115914353233237e-4
+30-39,Asian,NA,0,0
+30-39,Asian,Masters/Doctorate Degree or In Progress,538,0.0014269156607972162
+30-39,Some other race,High School or Less,1978,0.005246169474083445
+30-39,Some other race,College Degree or In Progress,1028,0.002726522861151558
+30-39,Some other race,Trade Certificate,174,4.614931691054194e-4
+30-39,Some other race,Associate Degree or In Progress,222,5.888016295482937e-4
+30-39,Some other race,NA,0,0
+30-39,Some other race,Masters/Doctorate Degree or In Progress,45,1.1935168166519466e-4
+30-39,American Indian or Alaska Native,High School or Less,360,9.548134533215573e-4
+30-39,American Indian or Alaska Native,College Degree or In Progress,268,7.108055708060482e-4
+30-39,American Indian or Alaska Native,Trade Certificate,59,1.56483315961033e-4
+30-39,American Indian or Alaska Native,Associate Degree or In Progress,62,1.6444009473871263e-4
+30-39,American Indian or Alaska Native,NA,0,0
+30-39,American Indian or Alaska Native,Masters/Doctorate Degree or In Progress,6,1.591355755535929e-5
+30-39,Pacific Islander,High School or Less,25,6.630648981399703e-5
+30-39,Pacific Islander,College Degree or In Progress,38,1.007858645172755e-4
+30-39,Pacific Islander,Trade Certificate,5,1.3261297962799406e-5
+30-39,Pacific Islander,Associate Degree or In Progress,8,2.1218076740479052e-5
+30-39,Pacific Islander,NA,0,0
+30-39,Pacific Islander,Masters/Doctorate Degree or In Progress,0,0
+60+,White,High School or Less,67512,0.1790593496129027
+60+,White,College Degree or In Progress,52786,0.1400021748528659
+60+,White,Trade Certificate,5391,0.01429833146349032
+60+,White,Associate Degree or In Progress,10612,0.02814577879624546
+60+,White,NA,0,0
+60+,White,Masters/Doctorate Degree or In Progress,6011,0.015942732410877448
+60+,"Black, or African American",High School or Less,9249,0.024530748971586344
+60+,"Black, or African American",College Degree or In Progress,4387,0.011635462832560199
+60+,"Black, or African American",Trade Certificate,597,0.0015833989767582491
+60+,"Black, or African American",Associate Degree or In Progress,1017,0.0026973480056333996
+60+,"Black, or African American",NA,0,0
+60+,"Black, or African American",Masters/Doctorate Degree or In Progress,291,7.718075414349254e-4
+60+,NA,High School or Less,0,0
+60+,NA,College Degree or In Progress,0,0
+60+,NA,Trade Certificate,0,0
+60+,NA,Associate Degree or In Progress,0,0
+60+,NA,NA,0,0
+60+,NA,Masters/Doctorate Degree or In Progress,0,0
+60+,Asian,High School or Less,3242,0.008598625599079136
+60+,Asian,College Degree or In Progress,2341,0.006208939706182683
+60+,Asian,Trade Certificate,93,2.4666014210806896e-4
+60+,Asian,Associate Degree or In Progress,404,0.0010715128753941922
+60+,Asian,NA,0,0
+60+,Asian,Masters/Doctorate Degree or In Progress,460,0.0012200394125775455
+60+,Some other race,High School or Less,2780,0.00737328166731647
+60+,Some other race,College Degree or In Progress,460,0.0012200394125775455
+60+,Some other race,Trade Certificate,109,2.890962955890271e-4
+60+,Some other race,Associate Degree or In Progress,98,2.599214400708684e-4
+60+,Some other race,NA,0,0
+60+,Some other race,Masters/Doctorate Degree or In Progress,30,7.956778777679644e-5
+60+,American Indian or Alaska Native,High School or Less,923,0.0024480356039327704
+60+,American Indian or Alaska Native,College Degree or In Progress,347,9.203340786182789e-4
+60+,American Indian or Alaska Native,Trade Certificate,60,1.5913557555359288e-4
+60+,American Indian or Alaska Native,Associate Degree or In Progress,86,2.280943249601498e-4
+60+,American Indian or Alaska Native,NA,0,0
+60+,American Indian or Alaska Native,Masters/Doctorate Degree or In Progress,17,4.508841307351798e-5
+60+,Pacific Islander,High School or Less,59,1.56483315961033e-4
+60+,Pacific Islander,College Degree or In Progress,25,6.630648981399703e-5
+60+,Pacific Islander,Trade Certificate,5,1.3261297962799406e-5
+60+,Pacific Islander,Associate Degree or In Progress,9,2.387033633303893e-5
+60+,Pacific Islander,NA,0,0
+60+,Pacific Islander,Masters/Doctorate Degree or In Progress,3,7.956778777679644e-6
+40-49,White,High School or Less,14852,0.03939135946869936
+40-49,White,College Degree or In Progress,23573,0.06252171537541408
+40-49,White,Trade Certificate,2349,0.006230157782923161
+40-49,White,Associate Degree or In Progress,5599,0.014850001458742776
+40-49,White,NA,0,0
+40-49,White,Masters/Doctorate Degree or In Progress,2380,0.006312377830292518
+40-49,"Black, or African American",High School or Less,2551,0.006765914220620258
+40-49,"Black, or African American",College Degree or In Progress,2929,0.007768468346607892
+40-49,"Black, or African American",Trade Certificate,471,0.001249214268095704
+40-49,"Black, or African American",Associate Degree or In Progress,786,0.002084676039752067
+40-49,"Black, or African American",NA,0,0
+40-49,"Black, or African American",Masters/Doctorate Degree or In Progress,198,5.251473993268565e-4
+40-49,NA,High School or Less,0,0
+40-49,NA,College Degree or In Progress,0,0
+40-49,NA,Trade Certificate,0,0
+40-49,NA,Associate Degree or In Progress,0,0
+40-49,NA,NA,0,0
+40-49,NA,Masters/Doctorate Degree or In Progress,0,0
+40-49,Asian,High School or Less,842,0.00223320257693542
+40-49,Asian,College Degree or In Progress,1995,0.005291257887156963
+40-49,Asian,Trade Certificate,65,1.7239687351639228e-4
+40-49,Asian,Associate Degree or In Progress,324,8.593321079894016e-4
+40-49,Asian,NA,0,0
+40-49,Asian,Masters/Doctorate Degree or In Progress,453,0.0012014735954296262
+40-49,Some other race,High School or Less,1964,0.005209037839787607
+40-49,Some other race,College Degree or In Progress,735,0.0019494108005315128
+40-49,Some other race,Trade Certificate,170,4.508841307351798e-4
+40-49,Some other race,Associate Degree or In Progress,165,4.3762283277238044e-4
+40-49,Some other race,NA,0,0
+40-49,Some other race,Masters/Doctorate Degree or In Progress,40,1.0609038370239525e-4
+40-49,American Indian or Alaska Native,High School or Less,342,9.070727806554795e-4
+40-49,American Indian or Alaska Native,College Degree or In Progress,287,7.61198503064686e-4
+40-49,American Indian or Alaska Native,Trade Certificate,50,1.3261297962799406e-4
+40-49,American Indian or Alaska Native,Associate Degree or In Progress,63,1.6709235433127253e-4
+40-49,American Indian or Alaska Native,NA,0,0
+40-49,American Indian or Alaska Native,Masters/Doctorate Degree or In Progress,10,2.6522595925598813e-5
+40-49,Pacific Islander,High School or Less,27,7.16110089991168e-5
+40-49,Pacific Islander,College Degree or In Progress,37,9.813360492471562e-5
+40-49,Pacific Islander,Trade Certificate,6,1.591355755535929e-5
+40-49,Pacific Islander,Associate Degree or In Progress,7,1.856581714791917e-5
+40-49,Pacific Islander,NA,0,0
+40-49,Pacific Islander,Masters/Doctorate Degree or In Progress,2,5.304519185119763e-6
+18-29,White,High School or Less,22515,0.05971562472648573
+18-29,White,College Degree or In Progress,33730,0.0894607160570448
+18-29,White,Trade Certificate,1993,0.0052859533679718435
+18-29,White,Associate Degree or In Progress,4839,0.012834284168397266
+18-29,White,NA,0,0
+18-29,White,Masters/Doctorate Degree or In Progress,643,0.0017054029180160037
+18-29,"Black, or African American",High School or Less,4719,0.01251601301729008
+18-29,"Black, or African American",College Degree or In Progress,5273,0.013985364831568255
+18-29,"Black, or African American",Trade Certificate,445,0.0011802555186891473
+18-29,"Black, or African American",Associate Degree or In Progress,608,0.001612573832276408
+18-29,"Black, or African American",NA,0,0
+18-29,"Black, or African American",Masters/Doctorate Degree or In Progress,52,1.3791749881311382e-4
+18-29,NA,High School or Less,0,0
+18-29,NA,College Degree or In Progress,0,0
+18-29,NA,Trade Certificate,0,0
+18-29,NA,Associate Degree or In Progress,0,0
+18-29,NA,NA,0,0
+18-29,NA,Masters/Doctorate Degree or In Progress,0,0
+18-29,Asian,High School or Less,1159,0.0030739688677769027
+18-29,Asian,College Degree or In Progress,3263,0.008654323050522893
+18-29,Asian,Trade Certificate,42,1.1139490288751502e-4
+18-29,Asian,Associate Degree or In Progress,283,7.505894646944464e-4
+18-29,Asian,NA,0,0
+18-29,Asian,Masters/Doctorate Degree or In Progress,161,4.270137944021409e-4
